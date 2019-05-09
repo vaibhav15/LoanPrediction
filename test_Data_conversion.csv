@@ -1,0 +1,2 @@
+loan_amnt,annual_inc,dti,fico_average,tenure,OTHER,OWN,RENT,credit_card,debt_consolidation,educational,home_improvement,house,major_purchase,medical,moving,other,renewable_energy,small_business,vacation,wedding,more than 10 years,2 years,3 years,4 years,5 years,6 years,7 years,8 years,9 years,less than 1 year
+500.0,50000.0,1.0,700.0,36.0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
